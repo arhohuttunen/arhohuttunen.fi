@@ -1,0 +1,181 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Arho Huttunen",
+    "label": "Software Craftsman",
+    "image": "",
+    "email": "arho.huttunen@iki.fi",
+    "phone": "+358 40 861 9439",
+    "url": "https://arhohuttunen.fi/",
+    "summary": "Arho is a software craftsman who is interested in clean architecture, sustainable development, and rigorous test automation. He believes in the autonomy of decision making in teams, psychological safety, and trust. He has broad experience in multiple areas of software development, and is always looking for possibilities for improvement.",
+    "location": {
+      "address": "Mustosenkatu 15 A",
+      "postalCode": "80170",
+      "city": "Joensuu",
+      "countryCode": "FI"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "arhohuttunen",
+        "url": "https://github.com/arhohuttunen"
+      },
+      {
+        "network": "Blog",
+        "username": "www.codingrevolution.com",
+        "url": "https://www.codingrevolution.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Abloy",
+      "location": "Joensuu, Finland",
+      "description": "Global benchmark in advanced locking and access management systems.",
+      "position": "Team Lead",
+      "url": "http://www.abloy.com/",
+      "startDate": "2019-01-04",
+      "summary": "ABLOY is a hallmark of trust. Setting the global benchmark in advanced locking and access management systems.",
+      "highlights": [
+        "Forming a new software team and development practices from ground up",
+        "State of the art test DevOps practices and automated pipelines"
+      ]
+    },
+    {
+      "name": "FastROI",
+      "location": "Joensuu, Finland",
+      "description": "Care management software provider.",
+      "position": "Software Architect",
+      "url": "http://www.fastroi.com/",
+      "startDate": "2015-01-02",
+      "endDate": "2018-12-21",
+      "summary": "Fastroi Ltd are an innovative Care Management Software provider specialising in real-time data collection solutions for managers and care workers.",
+      "highlights": [
+        "Establishing a more agile mindset in the company",
+        "Introducing better DevOps practices",
+        "Bringing a rather old technology stack to modern standards"
+      ]
+    },
+    {
+      "name": "Syncron Tech",
+      "location": "Lappeenranta, Finland",
+      "description": "Production-boosting software solutions for the industrial and energy sectors.",
+      "position": "Software Engineer",
+      "url": "http://www.syncrontech.com/",
+      "startDate": "2011-08-01",
+      "endDate": "2014-12-21",
+      "summary": "Syncron Tech develops and delivers software solutions to boost production in industries and energy sector.",
+      "highlights": [
+        "Development of test processes"
+      ]
+    },
+    {
+      "name": "Digia",
+      "location": "Lappeenranta, Finland",
+      "description": "Digia is a software and service company that helps its customers renew themselves in the networked world.",
+      "position": "Software Specialist",
+      "url": "http://www.digia.com/",
+      "startDate": "2003-11-03",
+      "endDate": "2011-07-29",
+      "summary": "Digia is a software and service company that helps its customers renew themselves in the networked world.",
+      "highlights": [
+        "Mobile test automation tool development",
+        "6 months consultancy for Nokia Boston in 2010"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "JCI Lappeenranta",
+      "position": "INT, LIO, TREAS",
+      "url": "https://jclappeenranta.fi/",
+      "startDate": "2011-01-01",
+      "endDate": "2014-12-21",
+      "summary": "JCI is a nonprofit organization of young active citizens age 18 to 40 who are engaged and committed to creating impact in their communities.",
+      "highlights": [
+        "Awarded 'Best Project Implementation 2011'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lappeenranta University of Technology",
+      "url": "https://www.lut.fi/",
+      "area": "Information Technology",
+      "studyType": "MSc",
+      "startDate": "1998-09-01",
+      "endDate": "2005-05-31",
+      "gpa": "4.0"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "Master",
+      "keywords": [
+        "Kotlin",
+        "Spring",
+        "Typescript",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Organizational",
+      "level": "Master",
+      "keywords": [
+        "Team management",
+        "Leadership",
+        "Identifying problems",
+        "Problem solving"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Moderate"
+    },
+    {
+      "language": "German",
+      "fluency": "Passable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": [
+        "Landscape"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Crossfit",
+        "Mountain biking",
+        "Hiking"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jarno Tukiainen",
+      "reference": "I've worked with Arho in new product development and it was at least mind opening. Arho has had a massive influence on how I think about agile development and how things should work when talking about procuct management. The impact he made on me, and the whole company was huge. The number one agile methodology brain washer I know. Arho is very technically oriented, but sees the big picture - how the product development affects sales and aftermarket support. He can think of the whole development cycle , from discovery to implementation to fast releases to improving to get maxmimized outcome fast for customers. It's kind of a rare trait, since even though he can organize the team to work efficiently with agile principles, he always see that the whys should be discovered and shared with the team before implementing anything that is not necessary. Technically talented person with a view on how the essential value can be created throughout the process. So, thank you Arho for brainwashing me with this ideology, it's been one of the best things that I've experienced. It's been a blast!"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "flat"
+  }
+}
