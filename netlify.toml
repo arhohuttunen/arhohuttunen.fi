@@ -1,3 +1,3 @@
 [build]
-  publish = dist/
+  publish = "dist/"
   command = "mkdir dist && npm run build"
