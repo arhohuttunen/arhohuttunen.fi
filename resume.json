@@ -92,6 +92,19 @@
         "Mobile test automation tool development",
         "6 months consultancy for Nokia Boston in 2010"
       ]
+    },
+    {
+      "name": "Santa Margarita",
+      "location": "Lappeenranta, Finland",
+      "description": "Santa Margarita designs and creates challenging customized solutions for industry and service sector.",
+      "position": "Software Engineer",
+      "url": "https://www.santamargarita.fi/",
+      "startDate": "2001-08-20",
+      "endDate": "2003-10-31",
+      "summary": "Santa Margarita designs and creates challenging customized solutions for industry and service sector.",
+      "highlights": [
+        "Design and implementation of server-side and front-end solutions"
+      ]
     }
   ],
   "volunteer": [
