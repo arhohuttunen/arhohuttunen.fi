@@ -16,6 +16,11 @@
     },
     "profiles": [
       {
+        "network": "YouTube",
+        "username": "Code With Arho",
+        "url": "https://www.youtube.com/channel/UCYxW02yOkWqV3nZTUBMfYzg"
+      },
+      {
         "network": "GitHub",
         "username": "arhohuttunen",
         "url": "https://github.com/arhohuttunen"
