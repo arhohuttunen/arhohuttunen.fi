@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "resume export dist/index.html"
+    "build": "npx resumed render --output dist/index.html"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,6 @@
   "homepage": "https://github.com/arhohuttunen/arhohuttunen.fi#readme",
   "devDependencies": {
     "jsonresume-theme-even": "^0.10.1",
-    "resume-cli": "^3.0.4"
+    "resumed": "^1.0.0"
   }
 }
