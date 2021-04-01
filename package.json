@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "preinstall": "npx npm-force-resolutions",
     "build": "resume export dist/index.html"
   },
   "repository": {
@@ -17,12 +16,8 @@
     "url": "https://github.com/arhohuttunen/arhohuttunen.fi/issues"
   },
   "homepage": "https://github.com/arhohuttunen/arhohuttunen.fi#readme",
-  "resolutions": {
-    "jsonresume-theme-even": "0.5.0"
-  },
   "devDependencies": {
-    "jsonresume-theme-even": "^0.5.0",
-    "npm-force-resolutions": "0.0.3",
-    "resume-cli": "^2.0.0"
+    "jsonresume-theme-even": "^0.6.0",
+    "resume-cli": "^3.0.4"
   }
 }
