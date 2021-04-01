@@ -6,7 +6,7 @@
     "image": "",
     "email": "arho.huttunen@iki.fi",
     "phone": "+358 40 861 9439",
-    "url": "https://arhohuttunen.fi/",
+    "url": "https://www.arhohuttunen.com/",
     "summary": "Arho is a software craftsman who is interested in clean architecture, sustainable development, and rigorous test automation. He believes in the autonomy of decision making in teams, psychological safety, and trust. He has broad experience in multiple areas of software development, and is always looking for possibilities for improvement.",
     "location": {
       "address": "Mustosenkatu 15 A",
@@ -29,11 +29,6 @@
         "network": "StackOverflow",
         "username": "arho-huttunen",
         "url": "https://stackoverflow.com/users/5765951/arho-huttunen"
-      },
-      {
-        "network": "Blog",
-        "username": "www.arhohuttunen.com",
-        "url": "https://www.arhohuttunen.com/"
       }
     ]
   },
