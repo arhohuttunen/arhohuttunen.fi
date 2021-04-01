@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/arhohuttunen/arhohuttunen.fi#readme",
   "devDependencies": {
-    "jsonresume-theme-even": "^0.6.0",
+    "jsonresume-theme-even": "^0.10.1",
     "resume-cli": "^3.0.4"
   }
 }
