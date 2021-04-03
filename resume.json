@@ -47,8 +47,9 @@
       "startDate": "2019-01-04",
       "summary": "ABLOY is a hallmark of trust. Setting the global benchmark in advanced locking and access management systems.",
       "highlights": [
-        "Forming a new software team and development practices from ground up",
-        "State of the art DevOps practices and automated pipelines"
+        "Forming a new software team from ground up",
+        "Mentorship around agile mindset, DevOps culture, testable architectures and sustainable development practices",
+        "Development of scalable backends (AWS ECS, Microservices, Event-Driven Architecture)"
       ]
     },
     {
@@ -61,9 +62,8 @@
       "endDate": "2018-12-21",
       "summary": "Fastroi Ltd are an innovative Care Management Software provider specialising in real-time data collection solutions for managers and care workers.",
       "highlights": [
-        "Establishing a more agile mindset in the company",
-        "Introducing better DevOps practices",
-        "Bringing a rather old technology stack to modern standards"
+        "Establishing a more agile mindset in the company and introducing better DevOps practices",
+        "Bringing a rather old technology stack to modern standards (Spring Boot, Java, PostgreSQL, Docker, AWS)"
       ]
     },
     {
@@ -76,7 +76,8 @@
       "endDate": "2014-12-21",
       "summary": "Syncron Tech develops and delivers software solutions to boost production in industries and energy sector.",
       "highlights": [
-        "Development of test processes"
+        "Design and implementation of production planning and manufacturing execution systems (Java, Apache Wicket, ExtJS, PostgreSQL, Oracle)",
+        "Development of test processes and test automation (Jenkins)"
       ]
     },
     {
@@ -89,8 +90,9 @@
       "endDate": "2011-07-29",
       "summary": "Digia is a software and service company that helps its customers renew themselves in the networked world.",
       "highlights": [
-        "Mobile test automation tool development",
-        "6 months consultancy for Nokia Boston in 2010"
+        "Participation in various mobile projects ranging from Symbian OS to Maemo to iOS (C++, Objective-C, Qt)",
+        "Mobile test automation tool development (Digia QualityKit)",
+        "6 months consultancy for Nokia at Boston in 2010"
       ]
     },
     {
@@ -103,7 +105,8 @@
       "endDate": "2003-10-31",
       "summary": "Santa Margarita designs and creates challenging customized solutions for industry and service sector.",
       "highlights": [
-        "Design and implementation of server-side and front-end solutions"
+        "Design and implementation of server-side and front-end solutions (Visual Basic, C++, ASP, MS SQL Server)",
+        "Implementation of an SMS alert system for various purposes"
       ]
     },
     {
@@ -115,7 +118,7 @@
       "endDate": "2000-08-25",
       "summary": "WebSite Oy designed web-based applications for local companies.",
       "highlights": [
-        "Design and implementation of server-side and front-end solutions"
+        "Design and implementation of dynamic web pages (CFML, PHP, MS SQL Server, MySQL)"
       ]
     }
   ],
@@ -128,7 +131,7 @@
       "endDate": "2014-12-21",
       "summary": "JCI is a nonprofit organization of young active citizens age 18 to 40 who are engaged and committed to creating impact in their communities.",
       "highlights": [
-        "Awarded 'Best Project Implementation 2011'"
+        "Awarded 'Best Project Implementation 2011' (Lappeenranta Fortress Christmas Fair)"
       ]
     }
   ],
@@ -145,25 +148,55 @@
   ],
   "skills": [
     {
-      "name": "Backend Development",
+      "name": "Practices",
       "level": "Master",
       "keywords": [
+        "User Story Mapping",
+        "Example Mapping",
+        "BDD",
+        "TDD",
+        "Contract testing",
+        "Static analysis",
+        "SAST",
+        "DAST",
+        "Domain-Driven Design",
+        "Infrastructure as code",
+        "Security by Design"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "level": "Master",
+      "keywords": [
+        "OpenAPI",
+        "REST APIs",
+        "OAuth 2",
+        "JWT",
+        "PKI",
+        "Cucumber",
+        "JUnit 5",
+        "Pact",
+        "ArchUnit",
+        "Spring Boot",
         "Kotlin",
-        "Spring",
-        "Typescript",
-        "PostgreSQL",
         "Docker",
-        "AWS"
+        "Testcontainers",
+        "Jenkins",
+        "GitLab CI",
+        "AWS",
+        "TypeScript",
+        "Renovate",
+        "Gemnasium",
+        "Fastlane"
       ]
     },
     {
       "name": "Organizational",
       "level": "Master",
       "keywords": [
-        "Team management",
-        "Leadership",
-        "Identifying problems",
-        "Problem solving"
+        "Team culture",
+        "Mentorship",
+        "Learning organization"
       ]
     }
   ],
@@ -182,7 +215,7 @@
     },
     {
       "language": "German",
-      "fluency": "Passable"
+      "fluency": "Moderate"
     },
     {
       "language": "Russian",
