@@ -39,12 +39,25 @@
   },
   "work": [
     {
+      "name": "Nordea",
+      "location": "Joensuu, Finland",
+      "description": "Nordea is a leading Nordic universal bank.",
+      "position": "IT Lead",
+      "url": "http://www.nordea.com/",
+      "startDate": "2022-01-03",
+      "summary": "Nordea is one of the top ten financial services companies in Europe based on market capitalisation.",
+      "highlights": [
+        "Establishing a new team at the branch office"
+      ]
+    },
+    {
       "name": "Abloy",
       "location": "Joensuu, Finland",
       "description": "Global benchmark in advanced locking and access management systems.",
       "position": "Team Lead",
       "url": "http://www.abloy.com/",
       "startDate": "2019-01-04",
+      "endDate": "2021-12-31",
       "summary": "ABLOY is a hallmark of trust. Setting the global benchmark in advanced locking and access management systems.",
       "highlights": [
         "Forming a new software team from ground up",
