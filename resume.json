@@ -39,15 +39,28 @@
   },
   "work": [
     {
+      "name": "Fluent Progress",
+      "location": "Joensuu, Finland",
+      "description": "Nordea is a leading Nordic universal bank.",
+      "position": "Head of Software Development",
+      "url": "http://www.fluentprogress.fi/",
+      "startDate": "2023-07-03",
+      "summary": "Managing and monitoring the maintenance of streets and roads, and sports facilities.",
+      "highlights": [
+        "Technical leadership and bridging the gap between development and product personnel"
+      ]
+    },
+    {
       "name": "Nordea",
       "location": "Joensuu, Finland",
       "description": "Nordea is a leading Nordic universal bank.",
       "position": "IT Lead",
       "url": "http://www.nordea.com/",
       "startDate": "2022-01-03",
+      "endDate": "2023-06-30",
       "summary": "Nordea is one of the top ten financial services companies in Europe based on market capitalisation.",
       "highlights": [
-        "Establishing a new team at the branch office"
+        "Establishing a new software engineering branch office in Joensuu"
       ]
     },
     {
