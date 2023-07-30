@@ -36,7 +36,7 @@
     {
       "name": "Fluent Progress",
       "location": "Joensuu, Finland",
-      "description": "Road and street maintenance software provider.",
+      "description": "Road and street maintenance software",
       "position": "Head of Software Development",
       "url": "http://www.fluentprogress.fi/",
       "startDate": "2023-07-03",
@@ -48,7 +48,7 @@
     {
       "name": "Nordea",
       "location": "Joensuu, Finland",
-      "description": "Nordea is a leading Nordic universal bank.",
+      "description": "Leading Nordic universal bank",
       "position": "IT Lead",
       "url": "http://www.nordea.com/",
       "startDate": "2022-01-03",
@@ -61,7 +61,7 @@
     {
       "name": "Abloy",
       "location": "Joensuu, Finland",
-      "description": "Global benchmark in advanced locking and access management systems.",
+      "description": "Advanced locking and access management systems",
       "position": "Team Lead",
       "url": "http://www.abloy.com/",
       "startDate": "2019-01-04",
@@ -76,7 +76,7 @@
     {
       "name": "FastROI",
       "location": "Joensuu, Finland",
-      "description": "Care management software provider.",
+      "description": "Care management software",
       "position": "Software Architect",
       "url": "http://www.fastroi.com/",
       "startDate": "2015-01-02",
@@ -90,7 +90,7 @@
     {
       "name": "Syncron Tech",
       "location": "Lappeenranta, Finland",
-      "description": "Production-boosting software solutions for the industrial and energy sectors.",
+      "description": "Industrial and energy sectors software",
       "position": "Software Engineer",
       "url": "http://www.syncrontech.com/",
       "startDate": "2011-08-01",
@@ -104,7 +104,7 @@
     {
       "name": "Digia",
       "location": "Lappeenranta, Finland",
-      "description": "Digia is a software and service company that helps its customers renew themselves in the networked world.",
+      "description": "Software and service company",
       "position": "Software Specialist",
       "url": "http://www.digia.com/",
       "startDate": "2003-11-03",
@@ -119,7 +119,7 @@
     {
       "name": "Santa Margarita",
       "location": "Lappeenranta, Finland",
-      "description": "Santa Margarita designs and creates challenging customized solutions for industry and service sector.",
+      "description": "Customized solutions for industry and service sector",
       "position": "Software Engineer",
       "url": "https://www.santamargarita.fi/",
       "startDate": "2001-08-20",
@@ -133,7 +133,7 @@
     {
       "name": "WebSite Oy",
       "location": "Joensuu, Finland",
-      "description": "WebSite Oy designed web-based applications for local companies.",
+      "description": "Web-based applications for local companies",
       "position": "Programmer",
       "startDate": "2000-01-03",
       "endDate": "2000-08-25",
@@ -173,34 +173,25 @@
       "level": "Master",
       "keywords": [
         "User Story Mapping",
-        "Example Mapping",
-        "BDD",
-        "TDD",
-        "Contract testing",
-        "Static analysis",
-        "SAST",
-        "DAST",
+        "Specification by Example",
         "Domain-Driven Design",
-        "Infrastructure as code",
-        "Security by Design"
+        "Test-Driven Development ",
+        "Trunk Based Development",
+        "Infrastructure as Code"
       ]
     },
     {
       "name": "Technologies",
       "level": "Master",
       "keywords": [
-        "OpenAPI",
-        "REST APIs",
-        "OAuth 2",
-        "JWT",
-        "PKI",
+        "Spring Boot",
+        "Java",
+        "Kotlin",
+        "Docker",
         "Cucumber",
         "JUnit 5",
         "Pact",
         "ArchUnit",
-        "Spring Boot",
-        "Kotlin",
-        "Docker",
         "Testcontainers",
         "Jenkins",
         "GitLab CI",
@@ -208,16 +199,21 @@
         "TypeScript",
         "Renovate",
         "Gemnasium",
-        "Fastlane"
+        "Fastlane",
+        "OpenAPI",
+        "REST",
+        "OAuth 2"
       ]
     },
     {
       "name": "Organizational",
       "level": "Master",
       "keywords": [
-        "Team culture",
-        "Mentorship",
-        "Learning organization"
+        "Pair Programming",
+        "Ensemble Programming",
+        "Limiting Work in Progress",
+        "Vertical Slicing",
+        "Cross-Functional Teams"
       ]
     }
   ],
