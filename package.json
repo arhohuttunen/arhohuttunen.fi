@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx resumed render --output dist/index.html"
+    "init": "resumed init",
+    "build": "mkdir -p dist && resumed render --theme jsonresume-theme-even --output dist/index.html"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,7 @@
   },
   "homepage": "https://github.com/arhohuttunen/arhohuttunen.fi#readme",
   "devDependencies": {
-    "jsonresume-theme-even": "^0.10.1",
-    "resumed": "^1.0.0"
+    "jsonresume-theme-even": "^0.18.1",
+    "resumed": "^3.0.1"
   }
 }
