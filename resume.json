@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Arho Huttunen",
-    "label": "Software Craftsman",
+    "label": "Software Crafter",
     "image": "",
     "email": "arho.huttunen@iki.fi",
     "phone": "+358 40 861 9439",
     "url": "https://www.arhohuttunen.com/",
-    "summary": "Arho is a software craftsman who is interested in clean architecture, sustainable development, and rigorous test automation. He believes in the autonomy of decision making in teams, psychological safety, and trust. He has broad experience in multiple areas of software development, and is always looking for possibilities for improvement.",
+    "summary": "Arho is a software crafter who is interested in clean architecture, sustainable development, and rigorous test automation. He believes in the autonomy of decision making in teams, psychological safety, and trust. He has broad experience in multiple areas of software development, and is always looking for possibilities for improvement.",
     "location": {
       "address": "Vehkaniemenkärki 8",
       "postalCode": "80220",
